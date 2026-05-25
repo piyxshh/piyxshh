@@ -1,129 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,45:6F46E5,70:0EA5E9,100:14B8A6&text=Piyush%20Singh&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Full%20Stack%20AI%20Product%20Engineer%20%E2%80%A2%20Web%20%2B%20AI%20%2B%20Infrastructure&descAlignY=57&descSize=20&animation=fadeIn" alt="Piyush Singh profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050816,35:1E1B4B,65:0E7490,100:14B8A6&text=Piyush%20Singh&fontColor=ffffff&fontSize=76&fontAlignY=42&desc=AI%20Product%20Engineer%20building%20full-stack%20systems%20around%20LLMs,%20media,%20and%20automation&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Piyush Singh banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2300&pause=750&color=14B8A6&center=true&vCenter=true&width=900&lines=Full-stack+AI+products.;GenAI+video+pipelines.;Agentic+workflow+systems.;SaaS+dashboards,+billing,+infra.;Ideas+shipped+as+real+software." alt="Typing animation" />
 
 <br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=650&color=14B8A6&center=true&vCenter=true&width=900&lines=I+build+AI+products+that+move+past+demos.;GenAI+video+pipelines+%E2%86%92+SaaS+dashboards.;LLM+agents+%E2%86%92+real+workflows.;Product+engineering+with+launch+velocity." alt="Typing SVG" />
-
-<br />
 <br />
 
-<a href="https://www.piyxsh.online">
-  <img src="https://img.shields.io/badge/Portfolio-piyxsh.online-14B8A6?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/piyush-singh-3698b2fg4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/piyxshh">
-  <img src="https://img.shields.io/badge/X-@piyxshh-111111?style=flat-square&logo=x&logoColor=white" />
-</a>
-<a href="mailto:piyxsh.singh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-piyxsh.singh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.piyxsh.online"><img src="https://img.shields.io/badge/Portfolio-piyxsh.online-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/piyush-singh-3698b2fg4/"><img src="https://img.shields.io/badge/LinkedIn-Piyush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/piyxshh"><img src="https://img.shields.io/badge/X-@piyxshh-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:piyxsh.singh@gmail.com"><img src="https://img.shields.io/badge/Email-piyxsh.singh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## `piyush.init()`
+<h2 align="center">I build the product layer around AI.</h2>
 
-```ts
-export const piyush = {
-  role: "Full Stack AI Product Engineer",
-  location: "Kolkata, India",
-  education: "B.Tech ECE @ Netaji Subhash Engineering College",
-  direction: "AI-first product systems",
-  currentFocus: [
-    "LLM agents",
-    "GenAI media workflows",
-    "RAG and vector search",
-    "full-stack SaaS",
-    "growth and internal tooling"
-  ],
-  unfairAdvantage:
-    "I can think like a founder, design like a product person, and build like an engineer."
-};
-```
+<p align="center">
+Not just prompts. Not just interfaces. I like building the whole machine:
+the workflow, the dashboard, the data model, the billing layer, the automations,
+and the UI that makes the system feel inevitable.
+</p>
 
-I work on the part of AI that becomes product: the interface, the workflow, the data model, the billing layer, the dashboard, the automation, and the small decisions that make something feel real.
-
----
-
-## Operating System
+<br />
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>AI Product Layer</h3>
-      <p>Agents, RAG, prompt systems, generated media, structured outputs, orchestration, and workflow automation.</p>
-    </td>
-    <td width="50%">
-      <h3>Product Infrastructure</h3>
-      <p>Auth, billing, credits, admin panels, storage, databases, API routes, deployment, and monitoring-ready architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Frontend Feel</h3>
-      <p>Premium interfaces, fast product surfaces, motion, dashboards, conversion pages, and user flows that do not feel generic.</p>
-    </td>
-    <td width="50%">
-      <h3>Growth Systems</h3>
-      <p>Funnels, onboarding, outreach ops, mentor-student matching, retention loops, and tools that make teams faster.</p>
-    </td>
+    <td width="25%" align="center"><b>AI Systems</b><br />Agents, RAG, LLM workflows</td>
+    <td width="25%" align="center"><b>Product Build</b><br />Next.js, React, TypeScript</td>
+    <td width="25%" align="center"><b>Infrastructure</b><br />Postgres, Prisma, Supabase</td>
+    <td width="25%" align="center"><b>Growth</b><br />Funnels, tooling, automation</td>
   </tr>
 </table>
 
 ---
 
-## Selected Builds
+## Builder Snapshot
 
-<table>
-  <tr>
-    <td width="34%"><b>ADVERA</b></td>
-    <td>GenAI video ad platform using LLM script strategy, fal.ai video generation, ElevenLabs audio, Transloadit assembly, Stripe credits, Prisma, and PostgreSQL.</td>
-  </tr>
-  <tr>
-    <td><b>Imagine</b></td>
-    <td>B2C AI photo-to-character product with Gemini Flash, Next.js, Neon PostgreSQL, NextAuth v5, admin controls, watermarking, and monetization hooks.</td>
-  </tr>
-  <tr>
-    <td><b>SmartSkale</b></td>
-    <td>AI-first learning and consulting frontend redesign for a live enrollment business, preserving Supabase, payments, forms, and existing business flows.</td>
-  </tr>
-  <tr>
-    <td><b>systemOS</b></td>
-    <td>Personal intelligence and performance OS across Next.js and Expo, with directives, logs, chat, health signals, and Supabase-backed flows.</td>
-  </tr>
-  <tr>
-    <td><b>JEEV RAKSHAK</b></td>
-    <td>Hackathon-winning emergency response platform with location-aware safety access and real-time alerting.</td>
-  </tr>
-  <tr>
-    <td><b>SENTINAL</b></td>
-    <td>Multi-agent enterprise intelligence platform for competitive analysis, market monitoring, synthesis, and reporting.</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **Name** | Piyush Singh |
+| **Role** | Full Stack AI Product Engineer |
+| **Based In** | Kolkata, India |
+| **Education** | B.Tech ECE, Netaji Subhash Engineering College |
+| **Current Direction** | AI-first product systems |
+| **Best At** | Turning ambitious product ideas into working software |
 
 ---
 
-## Stack Map
+## Featured Systems
+
+### ADVERA
+
+AI video ad platform for generating polished ad creatives from product context.
+
+**Built with:** OpenAI / Anthropic workflows, fal.ai, ElevenLabs, Transloadit, Stripe, Prisma, PostgreSQL.
+
+### Imagine
+
+B2C AI photo-to-character product with admin controls, monetization hooks, and image generation workflows.
+
+**Built with:** Gemini Flash, Next.js, Neon PostgreSQL, NextAuth v5, admin dashboard, watermarking.
+
+### SmartSkale
+
+AI-first learning and consulting website redesign for a live business with active enrollment and payment flows.
+
+**Built with:** Vite, React, TypeScript, Tailwind CSS, React Router, Supabase-aware frontend architecture.
+
+### systemOS
+
+Personal intelligence and performance OS across web and mobile prototypes.
+
+**Built with:** Next.js, Expo, React Native, Supabase, directive cards, logs, chat, health signals.
+
+### JEEV RAKSHAK
+
+Hackathon-winning emergency response platform with location-aware safety access and real-time alerting.
+
+### SENTINAL
+
+Multi-agent enterprise intelligence platform for competitive analysis, market monitoring, synthesis, and strategic reporting.
+
+---
+
+## Tech I Use To Ship
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi,postgres,prisma,supabase,docker,aws,tailwind,vercel,git,github" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi,postgres,prisma,supabase,docker,aws,tailwind,vercel,git,github" alt="Tech stack" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-6F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Agents-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/pgvector-14B8A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/fal.ai-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ElevenLabs-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-101828?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-6F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_Agents-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/pgvector-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/fal.ai-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/ElevenLabs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 
 </div>
 
@@ -131,31 +109,11 @@ I work on the part of AI that becomes product: the interface, the workflow, the 
 
 ## Experience Signal
 
-```txt
-Growth Engineer Intern @ InterviewCall / CSForAll
-  -> acquisition, mentor-student communication, retention, and internal tools
-  -> Python matching algorithm + Next.js admin dashboard
-  -> n8n, Typeform, Supabase, PostgreSQL onboarding automations
+**Growth Engineer Intern, InterviewCall / CSForAll**  
+Worked across acquisition, mentor-student communication, retention, and internal tooling for a 500+ user base. Built Python matching logic, a Next.js admin dashboard, and n8n automations across Typeform, Supabase, and PostgreSQL.
 
-AI Product Engineer, Contract
-  -> milestone-based AI product builds for UK and US clients
-  -> architecture across AI pipelines, auth, billing, storage, admin tooling, deployment
-```
-
----
-
-## GitHub Pulse
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyxshh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyxshh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=piyxshh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+**AI Product Engineer, Contract**  
+Delivered milestone-based AI product builds for UK and US clients, owning architecture across AI pipelines, auth, billing, storage, admin tooling, and deployment.
 
 ---
 
@@ -163,16 +121,12 @@ AI Product Engineer, Contract
 
 ### Open to AI product engineering, full-stack builds, agentic workflows, internships, and contract product work.
 
-<a href="https://www.piyxsh.online">
-  <img src="https://img.shields.io/badge/Explore_my_work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:piyxsh.singh@gmail.com">
-  <img src="https://img.shields.io/badge/Build_with_me-6F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.piyxsh.online"><img src="https://img.shields.io/badge/Explore_my_work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:piyxsh.singh@gmail.com"><img src="https://img.shields.io/badge/Build_with_me-6F46E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:0EA5E9,100:6F46E5" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:0EA5E9,100:6F46E5" width="100%" alt="Footer" />
 
 </div>
